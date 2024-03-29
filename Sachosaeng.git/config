@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/LJH3904/Sachosaeng.git
+	fetch = +refs/*:refs/*
+	mirror = true
+	pushurl = https://github.com/prography-9th-team5/sachosaeng.git
